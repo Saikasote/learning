@@ -1,2 +1,2 @@
-Name = Sairaj Nandkishor Kasote
+Name = Sairaj Kasote
 Email = kasote.sairaj@gmail.com
